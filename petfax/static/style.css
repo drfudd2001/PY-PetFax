@@ -1,4 +1,4 @@
-/* VARIABLES */
+//* VARIABLES */
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Abel&family=Bowlby+One&display=swap');
 :root {
     /* fonts */ 
@@ -36,8 +36,8 @@ h2 {
     margin: 0.5em 0;
 }
 h4 {
-    margin: 0.5em 0 0 0;
     color: var(--second-accent);
+    margin: 0.5em 0;
 }
 a {
     font-family: var(--accent-font);
