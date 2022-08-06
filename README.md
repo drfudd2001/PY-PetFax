@@ -1,5 +1,17 @@
-Sources for photos used: 
+# Python web server
 
-- Dog: [Karseten Winegeart on Unsplash](https://unsplash.com/photos/5PVXkqt2s9k)
-- Cat: [Alvan Nee on Unsplash](https://unsplash.com/photos/ZCHj_2lJP00)
-- Rabbit: [Emiliano Vittoriosi on Unsplash](https://unsplash.com/photos/3FSBkX4yG80)
+## Contains
+
+- Python REST directories
+- Static served style.css
+- Template rendering
+- New fact form and redirects
+
+| Route | Page |
+| ----- | ---- |
+| `/` | Welcome page |
+| `/pets` | Pet index page |
+| `/pets/:id` | Pet details page |
+| `/facts/new` | Fact submit form |
+| `/facts` | Fact index page |
+| `*` | 404 Page |
